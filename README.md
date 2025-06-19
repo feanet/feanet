@@ -1,4 +1,19 @@
-## Hi there 👋
+## Hi, I'm Alexander Zimin
+
+- I like making products: from idea to usable app.
+
+
+- Research interests: speech recognotion, enhancement, synthesis, voice biometrics and conversion
+- frontend processing: acoustic echo cancellation, denoising, and dereverberation
+- far-field sound pickup: beamforming, DOA estimation, and microphone array signal processing
+- video and audioanalytics from CCTV cameras
+- SFU, videoconferencing
+
+
+
+- How to reach me: alex@biometric.chat 
+
+
 
 <!--
 **feanet/feanet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
