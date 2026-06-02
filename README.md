@@ -11,7 +11,7 @@
 
 
 
-- How to reach me: alex@biometric.chat 
+- How to reach me: alex@simplexphone.com
 
 
 
